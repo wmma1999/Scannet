@@ -1,0 +1,4 @@
+ commands: git clone https://github.com/wmma1999/Scannet
+            cd scannet
+           bash scannet.sh
+
